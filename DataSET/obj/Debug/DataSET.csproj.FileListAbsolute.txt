@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\DataSET\DataSET\bin\Debug\DataSET.exe.config
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\DataSET\DataSET\bin\Debug\DataSET.exe
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\DataSET\DataSET\bin\Debug\DataSET.pdb
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\DataSET\DataSET\obj\Debug\DataSET.csprojResolveAssemblyReference.cache
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\DataSET\DataSET\obj\Debug\DataSET.exe
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\DataSET\DataSET\obj\Debug\DataSET.pdb
